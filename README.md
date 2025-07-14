@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 We are currently working on an AI SMS messaging system among the Ogiek Indigenous community in Mau Forest, Kenya/ Tunaendelea kufanya kazi kwenye mfumo wa ujumbe wa SMS unaotumia Akili Bandia (AI) miongoni mwa jamii ya watu wa kiasili wa Ogiek katika Msitu wa Mau, Kenya.
-- 👯 We are looking to collaborate on training an LLM in Ogiek 
-- 💬 Ask us about mobile technologies in Africa, Local AI, Low-power tech, feature phones (kabambes).
+- 👯 We are looking to collaborate on training an LLM in Ogiek/ Tunatafuta kushirikiana katika kufundisha LLM kwa lugha ya Kiogiek. 
+- 💬 Ask us about mobile technologies in Africa, Local AI, Low-power tech, feature phones/ Tuulize kuhusu teknolojia za simu barani Afrika, AI ya kienyeji, teknolojia za matumizi madogo ya umeme, na simu rahisi za kawaida (kabambe).
 ## Karibu/Welcome
 
 ## Kuhusu
